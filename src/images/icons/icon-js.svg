@@ -1,0 +1,13 @@
+<svg width="35" height="50" viewBox="0 0 35 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.93069 45.863L0 10L35 10.0721L31.9011 45.863L17.6321 50L2.93069 45.863Z" fill="#E9CA32"/>
+<path d="M17.6321 46.5365V13.4155L32.0453 13.4636L29.4751 43.0967L17.6321 46.5365Z" fill="#FFDE25"/>
+<path d="M16.0887 17.3481H12.2782V39.3926L9.31448 38.8274V35.8599L5.78625 35.2946V41.9362L16.0887 44.6211V17.3481ZM18.9471 17.3481H29.4959L28.7903 21.5733H22.9741V28.5069H28.7903L28.0846 42.5015L18.9471 44.6211V40.2405L25.1209 38.1208L25.4774 32.3271L18.9471 33.2739V17.3481Z" fill="white"/>
+<rect x="14" width="2" height="8" fill="black"/>
+<rect x="11" y="5.71436" width="5" height="2.28571" fill="black"/>
+<rect x="11" y="4" width="2" height="2" fill="black"/>
+<rect x="17" width="6" height="2" fill="black"/>
+<rect x="17" y="5" width="5" height="2.4" transform="rotate(-90 17 5)" fill="black"/>
+<rect x="20.6" y="8" width="5" height="2.4" transform="rotate(-90 20.6 8)" fill="black"/>
+<rect x="17" y="3" width="6" height="2" fill="black"/>
+<rect x="17" y="6" width="6" height="2" fill="black"/>
+</svg>
