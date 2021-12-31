@@ -10,10 +10,10 @@ function App() {
   return (
     <div className={classes.root}>
       <NavBar/>
-      <About title="Mi Perfil" id="about" dark={true } />
-      <Skills title="Mis Habilidades" id="skills" dark={false } />
-      <Works title="Mis Proyectos" id="works" dark={true } />
-      <Contact title="Contacto" id="contact" dark={false }/>
+      <About title="Mi Perfil" id="about" dark={false } />
+      <Skills title="Mis Habilidades" id="skills" dark={true } />
+      <Works title="Mis Trabajos" id="works" dark={false } />
+      <Contact title="Contacto" id="contact" dark={true }/>
     </div>
   );
 }
